@@ -14,11 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-<<<<<<< HEAD
-  "/precache-manifest.2153d9927e93d6732700bd2ecd341856.js"
-=======
-  "www.nicholasrstarnes.com.s3-website.us-east-2.amazonaws.com/precache-manifest.27b30208290e9963ab1a1087038b0642.js"
->>>>>>> b11b7752ba99dba49621c6626a23def80d8f8bf8
+  "www.nicholasrstarnes.com.s3-website.us-east-2.amazonaws.com/precache-manifest.5229dcb1eeb66d8559876f4b7ed67116.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -39,5 +35,5 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("www.nicholasrstarnes.com.s3-website.us-east-2.amazonaws.com/index.html"), {
   
-  blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
+  blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
