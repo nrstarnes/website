@@ -21,7 +21,7 @@ const blogSection = {
 const addressSection = {
 	title: "Location",
 	subtitle:
-		"Birmingham, Alabama",
+		"Birmingham, AL",
 	avatar_image_path: "mailbox.svg",
 	location_map_link: "https://www.google.com/maps/place/Birmingham,+AL/@33.5309219,-87.1303252,10z/data=!3m1!4b1!4m5!3m4!1s0x888911df5885bfd3:0x25507409eaba54ce!8m2!3d33.5185892!4d-86.8103567"
 };
