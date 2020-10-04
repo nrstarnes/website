@@ -189,7 +189,7 @@ const skills = {
       ]
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud Architecture",
       imagePath: "going_up.svg",
       skills: [
         "⚙️ Working with multiple cloud platforms, specializing in Amazon Web Services full suite of Cloud Services",
@@ -328,9 +328,9 @@ const skills = {
       title: "UX Design and Optimization",
       imagePath: "ux.svg",
       skills: [
-        "⚙️ Leveraging technologies to show system logic and screen-build iterations via customized Wireframes, Entity Relationship Diagrams (ERD), Data Flow Diagrams (DFD), Organization Charts, and more.",
+        "⚙️ Leveraging technologies to show system logic and screen-build iterations via customized Wireframes, Entity Relationship Diagrams (ERD), Data Flow Diagrams (DFD), Organization Charts, and more",
         "⚙️ Creating interactive and intuitive interfaces to allow users optimal experience with systems and technologies",
-        
+        "⚙️ Executing technical aspect of UX optimization by engineering front-end UI builds and seamlessly deploying changes into production environments"
       ],
       softwareSkills: [
         {
