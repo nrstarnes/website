@@ -480,6 +480,17 @@ const certifications = {
 	]
 };
 
+const enrichment = {
+  //For courses, conferences, and any skills enrichment 
+  certifications: [
+    {
+    title: "Professional Enrichment",
+    subtitle: " test"
+
+    }
+  ]
+};
+
 const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
@@ -623,7 +634,8 @@ export {
 	skills,
 	competitiveSites,
 	degrees,
-	certifications,
+  certifications,
+  enrichment,
 	openSource,
 	bigProjects,
 	achievementSection,

@@ -23,4 +23,5 @@ class Certifications extends Component {
     }
 }
 
+
 export default Certifications;
