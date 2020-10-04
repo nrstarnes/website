@@ -10,7 +10,7 @@ const experience = {
 	title: "Experience",
 	subtitle: "Work Experience and Volunteerism",
 	description:
-		"I breathe life into business systems, specializing in finance, accounting, and quantitative systems engineering. My passion is finance and banking, however, my medium within this field is the technical side of the financial world. I have experience working for banking and financial firms, both domestically in the U.S. and internationally. I have worked as a developer, analyst, programmer, proejct manager and more. I take pride in project management and innovative concepts that can create superior UX execution with intuitive back-end design.",
+		"I breathe life into business systems, specializing in financial, accounting, and quantitative systems engineering. My passion is the financial industry, however, my medium within this field is the technical side of the financial world - FinTech. I have experience working for banking and financial institutions, both domestically and internationally. I have worked as a developer, analyst, programmer, proejct manager and more. I take pride in designing modern, responsive UX by leveraging innovative concepts and tehnologies which can create superior UI execution with intuitive back-end design.",
 	header_image_path: "resume_updated.svg",
 	sections: [
 		{
@@ -27,7 +27,7 @@ const experience = {
 					color: "#0879bf"
 				},
 				{
-					title: "Freelance Full Stack Developer",
+					title: "Freelance Front-End Developer",
 					company: "Freelance / Contract",
 					company_url: "www.nicholasrstarnes.com",
 					logo_path: "userlogo.png",

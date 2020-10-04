@@ -425,8 +425,19 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "",
       descriptions: [
-        "⚡ Focussed in Global Financial Markets, Quantitative Analysis / Modeling and Computation Financial Modeling.",
-        
+        "⚡ Specialized in Quantitative Finance", 
+      ],
+      website_link: "https://www.ua.edu/"
+    },
+
+    {
+      title: "The University of Alabama",
+      subtitle: "Bachelor of Arts in Foreign Languages and Linguistics",
+      logo_path: "university-of-alabama.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "",
+      descriptions: [
+        "⚡ Specialized in French Language", 
       ],
       website_link: "https://www.ua.edu/"
     }
@@ -438,6 +449,7 @@ const degrees = {
 
 const certifications = {
 	certifications: [
+
 		{
 			title: "AWS Certified Cloud Practitioner",
 			subtitle: "- Amazon Web Services",
@@ -445,7 +457,17 @@ const certifications = {
 			certificate_link: "https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=HD2F2CBC2F4E1ZC8",
 			alt_name: "AWS",
 			color_code: "#FEB82E"
-		},
+    },
+
+    {
+    title: "AWS Certified Cloud Solutions Architect Associate",
+    subtitle: "- Amazon Web Services",
+    logo_path: "AWS-CloudPractitioner.png",
+    certificate_link: "https://www.certmetrics.com/amazon/public/transcript.aspx?transcript=HD2F2CBC2F4E1ZC8",
+    alt_name: "AWS",
+    color_code: "#FEB82E"
+    },
+
 		{
 			title: "Statewide Notary",
 			subtitle: "- State of Alabama Notary",

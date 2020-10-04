@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <div className="footer-div">
       <Fade>
-        <p className="footer-text">Made with <span role="img">❤️</span> by Nicholas Starnes</p>
+        <p className="footer-text">Made with <span role="img">❤️</span> by Me <span role="img">👨🏻‍💻</span></p>
       </Fade>
     </div>
   );
