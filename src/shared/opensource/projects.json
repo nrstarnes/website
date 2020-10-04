@@ -1,1 +1,129 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=","name":"Master Portfolio","createdAt":"2020-01-03T16:26:54Z","url":"https://github.com/nrstarnes/portfolio","description":"The complete portfolio website hosted using Amazon Web Services (AWS) S3 Bucket for a Static Site.","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"Last Byte","createdAt":"2020-01-03T11:53:55Z","url":"https://nrstarnes.wordpress.com/","description":"My personal blog covering Information Systems, Project Management, and general discussion about technology.","isFork":false,"languages":[]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"Published Book","createdAt":"2016-06-10T11:53:55Z","url":"https://www.amazon.com/Managing-Business-through-Investigation-Orientalism/dp/3659877948","description":"Managing Risk in Business through an Investigation of Orientalism: A practical guide...","isFork":false,"languages":[]}]}
+{"data":
+    [
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+        "name":"Master Portfolio",
+        "createdAt":"03/01/2020",
+        "url":"www.nicholasrstarnes.com",
+        "description":"The complete portfolio website hosted using Amazon Web Services (AWS) S3 Bucket for a Static Site.",
+        "isFork":false,
+        "languages":
+            [
+            {
+                "name":"HTML",
+                "iconifyClass":"logos-html-5"
+            },
+            {
+                "name":"CSS",
+                "iconifyClass":"logos-css-3"
+            },
+            {
+                "name":"JavaScript",
+                "iconifyClass":"logos-javascript"
+            }
+            ]
+    },
+
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_1=",
+        "name":"Last Byte",
+        "createdAt":"03/01/2020",
+        "url":"https://nrstarnes.wordpress.com/",
+        "description":"My personal blog covering Information Systems, Project Management, and general tech discussion.",
+        "isFork":false,
+        "languages":[]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_2=",
+        "name":"Published Book",
+        "createdAt":"06/10/2016",
+        "url":"https://www.amazon.com/Managing-Business-through-Investigation-Orientalism/dp/3659877948",
+        "description":"Managing Risk in Business through an Investigation of Orientalism: A practical guide.",
+        "isFork":false,
+        "languages":[]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_3=",
+        "name":"Lucidchart",
+        "createdAt":"08/01/2020",
+        "url":"https://github.com/nrstarnes/Lucidchart",
+        "description":"Lucidchart Diagrams, ERD's, Wireframes, Timelines, and anything else I can think of to create with Lucidchart😎",
+        "isFork":false,
+        "languages":[]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_4=",
+        "name":"React Sample UI's",
+        "createdAt":"10/04/2020",
+        "url":"https://github.com/nrstarnes/project-portfolio/tree/UI",
+        "description":"Demo UI's which can be explored via Local Host as if they were deployed, by installing and running NPM start",
+        "isFork":false,
+        "languages":
+            [
+            {
+                "name":"HTML",
+                "iconifyClass":"logos-html-5"
+            },
+            {
+                "name":"CSS",
+                "iconifyClass":"logos-css-3"
+            },
+            {
+                "name":"JavaScript",
+                "iconifyClass":"logos-javascript"
+            }
+            ]    
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_5=",
+        "name":"React Web Apps",
+        "createdAt":"10/04/2020",
+        "url":"https://github.com/nrstarnes/project-portfolio/tree/Web-Apps",
+        "description":"Demo Web Apps build with React. Simple to Deploy via AWS services",
+        "isFork":false,
+        "languages":
+            [
+            {
+                "name":"HTML",
+                "iconifyClass":"logos-html-5"
+            },
+            {
+                "name":"CSS",
+                "iconifyClass":"logos-css-3"
+            },
+            {
+                "name":"JavaScript",
+                "iconifyClass":"logos-javascript"
+            }
+            ]    
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_6=",
+        "name":"C# Projects",
+        "createdAt":"03/01/2019",
+        "url":"https://nrstarnes.wordpress.com/",
+        "description":"Miscelaneous projects developed in C#",
+        "isFork":false,
+        "languages":[]
+    },
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_7=",
+        "name":"Open Source Batch Script Guides",
+        "createdAt":"03/01/2018",
+        "url":"https://nrstarnes.wordpress.com/",
+        "description":"Miscelaneous Batch Scripting files able to be downloaded and customized as open source guides",
+        "isFork":false,
+        "languages":[]
+        },
+        {
+        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_8=",
+        "name":"Open Source SQL Scripts Guides",
+        "createdAt":"03/01/2018",
+        "url":"https://nrstarnes.wordpress.com/",
+        "description":"Miscelaneous Batch Scripting files able to be downloaded and customized as open source guides",
+        "isFork":false,
+        "languages":[]
+        }
+    ]
+
+}
