@@ -28,19 +28,19 @@ const experience = {
 				},
 				{
 					title: "Freelance Full Stack Developer",
-					company: "Freelance",
-					company_url: "https://nicholasrstarnes.com",
+					company: "Freelance / Contract",
+					company_url: "www.nicholasrstarnes.com",
 					logo_path: "userlogo.png",
-					duration: "June 2018 - PRESENT",
+					duration: "July 2018 - PRESENT",
 					location: "Remote",
 					description:
 						"",
 					color: "#9b1578"
 				},
 				{
-					title: "Financial Analyst / Consulant",
-					company: "Lifevest Financial",
-					company_url: "https://nicholasrstarnes.com",
+					title: "Financial Consulant - B2B",
+					company: "Horner Townsend and Kent and Penn Mutual, DBA Lifevest Financial",
+					company_url: "www.nicholasrstarnes.com",
 					logo_path: "blankcompany.jpeg",
 					duration: "May 2017 - July 2018",
 					location: "Birmingham, Alabama",
@@ -51,7 +51,7 @@ const experience = {
 				{
 					title: "Business Systems Analyst",
 					company: "IronBook",
-					company_url: "https://nicholasrstarnes.com",
+					company_url: "www.nicholasrstarnes.com",
 					logo_path: "ironbook.png",
 					duration: "January 2017 - January 2018",
 					location: "Remote",
@@ -60,7 +60,7 @@ const experience = {
 					color: "#7d7788"
 				},
 				{
-					title: "TM - Site Manager",
+					title: "Site Manager",
 					company: "Euro Auctions",
 					company_url: "https://euroauctions.com/",
 					logo_path: "euroauctions.jpg",
@@ -69,7 +69,9 @@ const experience = {
 					description:
 						"",
 					color: "#f50a15"
-				},
+				}
+				/*
+
 				{
 					title: "E-Commerce Administrator / Application Developer",
 					company: "PSN Purchasing",
@@ -92,6 +94,7 @@ const experience = {
 						"",
 					color: "#ddb116"
 				}
+				*/
 			]
 		},
 		{

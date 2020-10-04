@@ -405,18 +405,6 @@ const competitiveSites = {
 
 const degrees = {
   degrees : [
-    {
-      title: "The University of Alabama",
-      subtitle: "Bachelor of Science in Finance",
-      logo_path: "university-of-alabama.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "",
-      descriptions: [
-        "⚡ Focussed in Global Financial Markets, Quantitative Analysis / Modeling and Computation Financial Modeling.",
-        
-      ],
-      website_link: "https://www.ua.edu/"
-    },
 
     {
       title: "The University of Alabama at Birmingham",
@@ -428,6 +416,19 @@ const degrees = {
         "⚡ Specialized in Data Modeling, Quantitative Methods, and Analytics"
       ],
       website_link: "https://www.uab.edu/home/"
+    },
+
+    {
+      title: "The University of Alabama",
+      subtitle: "Bachelor of Science in Finance",
+      logo_path: "university-of-alabama.png",
+      alt_name: "IIITDM Kurnool",
+      duration: "",
+      descriptions: [
+        "⚡ Focussed in Global Financial Markets, Quantitative Analysis / Modeling and Computation Financial Modeling.",
+        
+      ],
+      website_link: "https://www.ua.edu/"
     }
 
   ]
