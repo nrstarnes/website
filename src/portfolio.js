@@ -413,7 +413,7 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "Expected Graduation: 2021",
       descriptions: [
-        "⚡ Specialized in Data Modeling, Quantitative Methods, and Analytics"
+        "⚡ Specialized in Data Science"
       ],
       website_link: "https://www.uab.edu/home/"
     },
