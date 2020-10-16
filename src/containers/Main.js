@@ -13,7 +13,7 @@ export default class Main extends Component {
 	render() {
 		return (
 			<div>
-				<HashRouter basename="/React">
+				<HashRouter basename="/">
 					<Switch>
 						<Route path="/" exact component={Home} />
 						<Route path="/splash" exact component={Splash} />
