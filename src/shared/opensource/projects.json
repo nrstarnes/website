@@ -4,7 +4,7 @@
         "id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
         "name":"Master Portfolio",
         "createdAt":"03/01/2020",
-        "url":"www.nicholasrstarnes.com",
+        "url":"https://nicholasrstarnes.com/#/",
         "description":"The complete portfolio website hosted using Amazon Web Services (AWS) S3 Bucket for a Static Site.",
         "isFork":false,
         "languages":
@@ -52,74 +52,10 @@
         "languages":[]
     },
     {
-        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_4=",
-        "name":"React Sample UI's",
-        "createdAt":"10/04/2020",
-        "url":"https://github.com/nrstarnes/project-portfolio/tree/UI",
-        "description":"Demo UI's which can be explored via Local Host as if they were deployed, by installing and running NPM start",
-        "isFork":false,
-        "languages":
-            [
-            {
-                "name":"HTML",
-                "iconifyClass":"logos-html-5"
-            },
-            {
-                "name":"CSS",
-                "iconifyClass":"logos-css-3"
-            },
-            {
-                "name":"JavaScript",
-                "iconifyClass":"logos-javascript"
-            }
-            ]    
-    },
-    {
-        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_5=",
-        "name":"React Web Apps",
-        "createdAt":"10/04/2020",
-        "url":"https://github.com/nrstarnes/project-portfolio/tree/Web-Apps",
-        "description":"Demo Web Apps build with React. Simple to Deploy via AWS services",
-        "isFork":false,
-        "languages":
-            [
-            {
-                "name":"HTML",
-                "iconifyClass":"logos-html-5"
-            },
-            {
-                "name":"CSS",
-                "iconifyClass":"logos-css-3"
-            },
-            {
-                "name":"JavaScript",
-                "iconifyClass":"logos-javascript"
-            }
-            ]    
-    },
-    {
-        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_6=",
-        "name":"C# Projects",
-        "createdAt":"03/01/2019",
-        "url":"https://github.com/nrstarnes/project-portfolio/tree/C%23",
-        "description":"Miscelaneous projects developed in C#",
-        "isFork":false,
-        "languages":[]
-    },
-    {
         "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_7=",
         "name":"Open Source Batch Script Guides",
         "createdAt":"03/01/2018",
         "url":"https://github.com/nrstarnes/openSource/tree/batch-scripts",
-        "description":"Miscelaneous Batch Scripting files able to be downloaded and customized as open source guides",
-        "isFork":false,
-        "languages":[]
-        },
-        {
-        "id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM_8=",
-        "name":"Open Source SQL Scripts Guides",
-        "createdAt":"03/01/2018",
-        "url":"https://github.com/nrstarnes/openSource/tree/SQL",
         "description":"Miscelaneous Batch Scripting files able to be downloaded and customized as open source guides",
         "isFork":false,
         "languages":[]
