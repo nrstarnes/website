@@ -42,12 +42,6 @@ To view a live example, **[click here](https://nicholasrstarnes.com)**
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details
 
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/nrstarnes/portfolio"><img src="https://github.com/nrstarnes/portfolio" width="100px;" alt="https://github.com/nrstarnes/portfolio"/><br /><sub><b>Nicholas Starnes</b></sub></a><br /><a href="https://github.com/nrstarnes/portfolio" title="Code">💻</a> <a href="https://nrstarnes.wordpress.com" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
