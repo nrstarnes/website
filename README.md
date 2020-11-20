@@ -33,9 +33,14 @@ To view a live example, **[click here](https://nicholasrstarnes.com)**
 ## illustrations
 - [UnDraw](https://undraw.co/illustrations)
 
-## Deployment 📦 
-- Step 1: from terminal in VS Code, 
+## Deployment (locally) 📦 
+- Step 1: From terminal in VS Code
+- Step 2: Run from terminal --> Yarn
+- Step 3: Run from terminal --> Yarn Start
 
+Your site will run locally 
+
+(For easiest production deployment, utilize AWS S3 bucket for static hosted site. My site is hosted by this method and is $0.50 per month)
 
 ## License 📄
 
